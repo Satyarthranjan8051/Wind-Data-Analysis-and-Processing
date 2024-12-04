@@ -41,4 +41,4 @@ This project processes meteorological wind data by converting units, resampling 
 3. Review the output CSV file for summarized wind speed information.
 
 ## Author
-[Your Name]
+Satyarth Ranjan
